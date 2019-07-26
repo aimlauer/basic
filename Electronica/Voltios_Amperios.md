@@ -13,3 +13,7 @@ Pongamos el caso anterior de un enchufe de pared. Tengo una diferencia de potenc
 entre los dos agujeros, en cuando enchufo algo, la corriente empieza a fluir a través
 del cable desde los 230V hacia los 0V pasando por la carga que le he conectado (bombilla)
 y haciendo que se utilice esta energía.
+
+La tensión es la cantidad de energía que transporta cada carga.
+Voltaje es la energía por la unidad de carga.
+Intensidad son las unidades de carga por unidad de tiempo.
